@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Web developer at Optic Performance ! <br>
+🔭 Web developer<br>
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/Hugo#1175) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hugo-aloche) 
 
